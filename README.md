@@ -22,7 +22,7 @@ cheap , privacy , effective , appropriate for multi platforms.
 
 ## Project Videos 
 [Helmet detections video](https://drive.google.com/file/d/1rMso6DyG5c1HIsiwc_VfiFCcDQ8LYB16/view)
-[Hand detections video](https://drive.google.com/drive/u/0/folders/1AGowR9Nx_-v0qPJZbT7BOK5y2NF7t6GR)
+[Hand detections video](https://drive.google.com/file/d/1eLxHmgi49fnc74XEGncDs5P2LwlHqcO4/view)
 
 
 ## Images from the demo
