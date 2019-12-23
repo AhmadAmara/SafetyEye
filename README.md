@@ -24,7 +24,9 @@ cheap , privacy , effective , appropriate for multi platforms.
 [Watch the video](https://drive.google.com/file/d/1rMso6DyG5c1HIsiwc_VfiFCcDQ8LYB16/view)
 
 
-
+## Images from the demo
+![alt text](https://github.com/AhmadAmara/SafetyEye/blob/master/helmetDetection.png)
+![alt text](https://github.com/AhmadAmara/SafetyEye/blob/master/handDetection.png)
 
 
 ### Prerequisites
